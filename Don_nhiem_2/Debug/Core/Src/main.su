@@ -1,0 +1,15 @@
+../Core/Src/main.c:83:6:microDelay	16	static
+../Core/Src/main.c:89:9:DHT11_Start	32	static
+../Core/Src/main.c:120:9:DHT11_Read	16	static
+../Core/Src/main.c:145:6:DO_NHIET_DO	16	static
+../Core/Src/main.c:163:6:DO_DO_AM	16	static
+../Core/Src/main.c:178:6:HIEN_THI_OLED	8	static
+../Core/Src/main.c:189:6:TRUYEN_UART	136	static
+../Core/Src/main.c:206:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:229:5:main	40	static
+../Core/Src/main.c:314:6:SystemClock_Config	72	static
+../Core/Src/main.c:354:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:388:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:434:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:468:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:501:6:Error_Handler	4	static,ignoring_inline_asm
